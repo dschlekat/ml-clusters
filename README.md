@@ -8,4 +8,3 @@ William Brownstead, Kathryn Hart, Eian Hoots, Donovan Schlekat, Logan Selph
 
 ### Rf_Classification.ipynb
 Age-based classification of star clusters using a Random Forest supervised learning method.
-
