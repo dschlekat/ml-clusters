@@ -1,0 +1,35 @@
++-----------------------+---------+
+| Open Cluster Accuracies |         |
++-----------------------+---------+
+| Parameter               | Accuracy |
++-----------------------+---------+
+| Galactic Longitude     | 42.5%   |
+| Galactic Latitude      | 52.2%   |
+| Right Ascension        | 49.6%   |
+| Declination            | 37.7%   |
+| Core Radius            | 47.8%   |
+| Number of Core Stars   | 39.8%   |
+| Distance               | 65.5%   |
+| Reddening              | 41.6%   |
+| Metallicity            | 45.1%   |
+| All of the Above       | 69.9%   |
++-----------------------+---------+
+[Cluster parameters from the MWSC Catalog along with their success rates when used with a Random Forest Classifier to place open clusters with metallicity data into age groups.]
+
++-----------------------+---------+
+| All Cluster Accuracies  |         |
++-----------------------+---------+
+| Parameter               | Accuracy |
++-----------------------+---------+
+| Galactic Longitude     | 49.5%   |
+| Galactic Latitude      | 44.8%   |
+| Right Ascension        | 42.8%   |
+| Declination            | 47.4%   |
+| Core Radius            | 38.7%   |
+| Number of Core Stars   | 52.6%   |
+| Distance               | 46.9%   |
+| Reddening              | 45.4%   |
+| Metallicity            | 46.9%   |
+| All of the Above       | 83.0%   |
++-----------------------+---------+
+[Cluster parameters from the MWSC Catalog along with their success rates when used with a Random Forest Classifier to place all clusters with metallicity data into age groups.]
