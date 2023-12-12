@@ -6,5 +6,8 @@ William Brownstead, Kathryn Hart, Eian Hoots, Donovan Schlekat, Logan Selph
 
 ## Files:
 
-### Rf_Classification.ipynb
+### Rf_Clusters.ipynb
 Age-based classification of star clusters using a Random Forest supervised learning method.
+
+### Km_clusters.ipynb
+Clustering of star clusters into groups using various parameters. Evaluated using a K-means unsupervised learning method.
